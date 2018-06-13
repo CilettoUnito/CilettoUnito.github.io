@@ -1,0 +1,19 @@
+connection=wired
+network_interface=eth0
+dhcp=yes
+browser=firefox
+homepage_check=TERMINALE NON DISPONIBILE (ERRORE DI RETE)
+homepage=https://help.unito.it
+hostname=kiosk-dg-01
+browser_idle=2
+primary_keyboard_layout=it
+disable_navigation_bar=yes
+scheduled_action= Monday-20:00 Tuesday-20:00 Wednesday-20:00 Thursday-20:00 Friday-20:00 Saturday-14:00 Sunday-08:00 action:halt
+rtc_wake= Monday-07:55 Tuesday-07:55 Wednesday-07:55 Thursday-07:55 Friday-07:55 Saturday-07:55 Sunday-07:55
+screensaver_idle=5
+timezone=Europe/Rome
+wallpaper=https://drive.google.com/uc?export=download&id=1G1v8eseCm8XoaBxshAEWCKJ0hsOWcgZ1
+whitelist=unito.it mail.google.com
+wake_on_lan=yes
+disable_zoom_controls=yes
+additional_components=uefi.zip 07-java.xzm 06-fonts.xzm 05-flash.xzm 
