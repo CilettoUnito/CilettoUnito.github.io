@@ -6,6 +6,7 @@ homepage_check=TERMINALE NON DISPONIBILE (ERRORE DI RETE)
 hostname=ksk-dg-2D280
 allow_icmp_protocol=no
 session_idle=2
+session_idle_forced=5
 primary_keyboard_layout=it
 disable_navigation_bar=no
 kiosk_config=https://CilettoUnito.github.io/kiosk.txt
