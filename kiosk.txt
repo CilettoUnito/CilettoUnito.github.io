@@ -21,5 +21,4 @@ wallpaper=https://drive.google.com/uc?export=download&id=1G1v8eseCm8XoaBxshAEWCK
 slide_duration=15
 timezone=Europe/Rome
 ntp_server=it.pool.ntp.org
-shutdown_menu=yes
-shutdown_menu=reboot restart-session
+shutdown_menu=yes reboot restart-session
