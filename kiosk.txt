@@ -17,7 +17,10 @@ whitelist=help.unito.it https://help.unito.it unito.it/
 wake_on_lan=yes
 additional_components=uefi.zip 07-java.xzm 06-fonts.xzm 05-flash.xzm
 disable_address_bar=yes
+disable_navigation_bar=yes
 screensaver_archive=https://CilettoUnito.github.io/wallpapers.zip
 wallpaper=https://drive.google.com/uc?export=download&id=1G1v8eseCm8XoaBxshAEWCKJ0hsOWcgZ1
 slide_duration=15
 timezone=Europe/Rome
+ntp_server=it.pool.ntp.org
+shutdown_menu=reboot restart-session
