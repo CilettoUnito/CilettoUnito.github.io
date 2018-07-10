@@ -10,7 +10,6 @@ wake_on_lan=yes
 browser=firefox
 homepage=https://help.unito.it|http://www.unito.it|http://www.uize.com/examples/digital-clock.html
 whitelist=help.unito.it https://help.unito.it www.unito.it/ http://www.uize.com/examples/digital-clock.html
-homepage_check=TERMINALE NON DISPONIBILE (ERRORE DI RETE)
 disable_navigation_bar=no
 disable_zoom_controls=no
 session_idle=2
