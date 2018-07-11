@@ -4,7 +4,6 @@ dhcp=yes
 hostname=ksk-dg-2D280
 allow_icmp_protocol=no
 primary_keyboard_layout=it
-secondary_keyboard_layout=uk
 disable_numlock=yes
 shutdown_menu=reboot
 wake_on_lan=yes
