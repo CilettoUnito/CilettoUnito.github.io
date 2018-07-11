@@ -27,4 +27,3 @@ rtc_wake= Monday-07:55 Tuesday-07:55 Wednesday-07:55 Thursday-07:55 Friday-07:55
 additional_components=uefi.zip 07-java.xzm 06-fonts.xzm 05-flash.xzm
 timezone=Europe/Rome
 ntp_server=time.unito.it
- 
