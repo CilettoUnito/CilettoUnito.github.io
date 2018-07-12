@@ -11,14 +11,12 @@ browser=firefox
 homepage=https://help.unito.it|https://help.unito.it|https://help.unito.it|https://help.unito.it|https://help.unito.it|https://help.unito.it
 whitelist=unito.it http://www.uize.com/examples/digital-clock.html ntp1.inrim.it time.unito.it
 managed_bookmarks=https://help.unito.it|HELP_UNITO_IT|
-disable_navigation_bar=yes
+disable_navigation_bar=no
 disable_zoom_controls=no
 disable_address_bar=yes
 session_idle=2
 session_idle_forced=30
 refresh_webpage=300
-screensaver_archive=https://CilettoUnito.github.io/wallpapers.zip
-screensaver_idle=3
 wallpaper=https://drive.google.com/uc?export=download&id=1G1v8eseCm8XoaBxshAEWCKJ0hsOWcgZ1
 slide_duration=15
 scheduled_action= Monday-20:00 Tuesday-20:00 Wednesday-20:00 Thursday-20:00 Friday-20:00 Saturday-14:00 Sunday-08:05 action:halt
