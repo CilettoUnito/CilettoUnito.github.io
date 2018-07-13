@@ -8,11 +8,11 @@ disable_numlock=yes
 shutdown_menu=reboot
 wake_on_lan=yes
 browser=firefox
-homepage=https://help.unito.it|https://help.unito.it|https://help.unito.it|https://help.unito.it|https://help.unito.it|https://help.unito.it
+homepage=https://help.unito.it|https://help.unito.it|https://help.unito.it|https://help.unito.it|http://www.unito.it|http://www.uize.com/examples/digital-clock.html
 whitelist=unito.it http://www.uize.com/examples/digital-clock.html ntp1.inrim.it time.unito.it
-managed_bookmarks=https://help.unito.it http://www.unito.it http://www.uize.com/examples/digital-clock.html
+managed_bookmarks=https://help.unito.it|HELPDESK| http://www.unito.it|UNITO| http://www.uize.com/examples/digital-clock.html|CLOCK|
 disable_navigation_bar=no
-disable_zoom_controls=no
+disable_zoom_controls=yes
 disable_address_bar=yes
 session_idle_forced=3
 wallpaper=https://drive.google.com/uc?export=download&id=1G1v8eseCm8XoaBxshAEWCKJ0hsOWcgZ1
