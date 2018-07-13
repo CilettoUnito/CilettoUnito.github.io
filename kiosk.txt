@@ -14,8 +14,7 @@ managed_bookmarks=https://help.unito.it http://www.unito.it http://www.uize.com/
 disable_navigation_bar=yes
 disable_zoom_controls=no
 disable_address_bar=yes
-session_idle=2
-session_idle_forced=30
+session_idle_forced=3
 refresh_webpage=300
 wallpaper=https://drive.google.com/uc?export=download&id=1G1v8eseCm8XoaBxshAEWCKJ0hsOWcgZ1
 slide_duration=15
