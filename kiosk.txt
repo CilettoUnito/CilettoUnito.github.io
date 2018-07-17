@@ -21,4 +21,4 @@ timezone=Europe/Rome
 ntp_server=time.unito.it
 session_idle=1
 session_idle_forced=20
-shutdown_combination=shutdown reboot sleep restart-session
+shutdown_combination=yes
