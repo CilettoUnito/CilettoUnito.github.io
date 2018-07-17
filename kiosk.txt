@@ -23,6 +23,11 @@ ntp_server=time.unito.it
 browser_idle=2
 browser_idle_forced=10
 
+#screensaver
+screensaver_idle=5
+screensaver_archive=http://cilettounito.github.io/wallpapers.zip
+slide_duration=10
+
 #si può usare questo per avere il menu, ma su questa versione (gratuita 3,7 o qualcosa del genere invece che 4.x) non è possibile scegliere queli voci avere quindi rimane possibile spegnere la macchina.
 #shutdown_combination=yes 
 #Usare come riferimento per config https://web.archive.org/web/20160317172945/http://porteus-kiosk.org/parameters.html
