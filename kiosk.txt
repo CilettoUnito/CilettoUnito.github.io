@@ -19,8 +19,8 @@ rtc_wake= Monday-07:55 Tuesday-07:55 Wednesday-07:55 Thursday-07:55 Friday-07:55
 additional_components=uefi.zip 07-java.xzm 06-fonts.xzm 05-flash.xzm
 timezone=Europe/Rome
 ntp_server=time.unito.it
-browser_idle=1
-#session_idle_forced=1
+browser_idle=2
+browser_idle_forced=10
 
 #si può usare questo per avere il menu, ma su questa versione (gratuita 3,7 o qualcosa del genere invece che 4.x) non è possibile scegliere queli voci avere quindi rimane possibile spegnere la macchina.
 #shutdown_combination=yes 
