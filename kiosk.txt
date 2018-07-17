@@ -9,12 +9,11 @@ wake_on_lan=yes
 browser=firefox
 homepage=https://help.unito.it|https://help.unito.it|https://help.unito.it|https://help.unito.it|http://www.unito.it|http://www.uize.com/examples/digital-clock.html
 whitelist=unito.it http://www.uize.com/examples/digital-clock.html ntp1.inrim.it time.unito.it
-managed_bookmarks=https://help.unito.it|HelpDesk http://www.unito.it|Unito.it http://www.uize.com/examples/digital-clock.html|Orologio
+managed_bookmarks=https://help.unito.it http://www.unito.it http://www.uize.com/examples/digital-clock.html
 disable_navigation_bar=no
 disable_zoom_controls=no
 disable_address_bar=yes
 wallpaper=https://drive.google.com/uc?export=download&id=1G1v8eseCm8XoaBxshAEWCKJ0hsOWcgZ1
-slide_duration=15
 scheduled_action= Monday-20:00 Tuesday-20:00 Wednesday-20:00 Thursday-20:00 Friday-20:00 Saturday-14:00 Sunday-08:05 action:halt
 rtc_wake= Monday-07:55 Tuesday-07:55 Wednesday-07:55 Thursday-07:55 Friday-07:55 Saturday-07:55 Sunday-07:55
 additional_components=uefi.zip 07-java.xzm 06-fonts.xzm 05-flash.xzm 08-ssh.xzm 09-x11vnc.xzm
