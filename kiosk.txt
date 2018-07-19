@@ -25,7 +25,7 @@ browser_idle_forced=10
 
 #screensaver
 screensaver_idle=5
-screensaver_archive=http://cilettounito.github.io/wallpapers.zip
+screensaver_archive=http://cilettounito.github.io/wallpapers02.zip
 slide_duration=10
 
 #si può usare questo per avere il menu, ma su questa versione (gratuita 3,7 o qualcosa del genere invece che 4.x) non è possibile scegliere queli voci avere quindi rimane possibile spegnere la macchina.
