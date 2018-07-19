@@ -11,8 +11,8 @@ homepage=https://help.unito.it
 whitelist=unito.it http://www.uize.com/examples/digital-clock.html ntp1.inrim.it time.unito.it
 managed_bookmarks=https://help.unito.it http://www.unito.it 
 #link a orologio http://www.uize.com/examples/digital-clock.html
-disable_navigation_bar=no
-disable_zoom_controls=no
+disable_navigation_bar=yes
+disable_zoom_controls=yes
 disable_address_bar=yes
 wallpaper=https://drive.google.com/uc?export=download&id=1G1v8eseCm8XoaBxshAEWCKJ0hsOWcgZ1
 scheduled_action= Monday-20:00 Tuesday-20:00 Wednesday-20:00 Thursday-20:00 Friday-20:00 Saturday-14:00 Sunday-08:05 action:halt
@@ -20,7 +20,7 @@ rtc_wake= Monday-07:55 Tuesday-07:55 Wednesday-07:55 Thursday-07:55 Friday-07:55
 additional_components=uefi.zip 07-java.xzm 06-fonts.xzm 05-flash.xzm
 timezone=Europe/Rome
 ntp_server=time.unito.it
-browser_idle=2
+browser_idle=3
 browser_idle_forced=10
 
 #screensaver
@@ -29,5 +29,5 @@ screensaver_archive=http://cilettounito.github.io/wallpapers.zip
 slide_duration=10
 
 #si può usare questo per avere il menu, ma su questa versione (gratuita 3,7 o qualcosa del genere invece che 4.x) non è possibile scegliere queli voci avere quindi rimane possibile spegnere la macchina.
-#shutdown_combination=yes 
+shutdown_combination=yes 
 #Usare come riferimento per config https://web.archive.org/web/20160317172945/http://porteus-kiosk.org/parameters.html
