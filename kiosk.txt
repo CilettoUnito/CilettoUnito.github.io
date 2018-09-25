@@ -15,7 +15,7 @@ disable_navigation_bar=yes
 disable_zoom_controls=yes
 disable_address_bar=yes
 wallpaper=https://drive.google.com/uc?export=download&id=1G1v8eseCm8XoaBxshAEWCKJ0hsOWcgZ1
-scheduled_action= Monday-20:00 Tuesday-20:00 Wednesday-20:00 Thursday-20:00 Friday-20:00 Saturday-14:00 Sunday-08:05 action:halt
+scheduled_action= Monday-22:00 Tuesday-22:00 Wednesday-22:00 Thursday-22:00 Friday-22:00 Saturday-16:00 Sunday-10:05 action:halt
 rtc_wake= Monday-07:55 Tuesday-07:55 Wednesday-07:55 Thursday-07:55 Friday-07:55 Saturday-07:55
 additional_components=uefi.zip 07-java.xzm 06-fonts.xzm 05-flash.xzm
 timezone=Europe/Rome
